@@ -1,0 +1,2 @@
+export CSCOPE_DB="$PWD/cscope.out"
+echo "Exported CSCOPE_DB to: '$CSCOPE_DB'"
